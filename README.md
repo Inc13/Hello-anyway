@@ -1,1 +1,3 @@
 # Hello-anyway
+
+print
